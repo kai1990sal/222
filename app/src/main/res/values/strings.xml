@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">luxor</string>
+    <string name="category_musems">museum</string>
+    <string name="category_shops">shops</string>
+    <string name="category_food_drink">FoodAndDrinks</string>
+    <string name="category_hotels">hotels</string>
+
+    <string name="krnkMuseum">krnk Museum</string>
+    <string name="LuxorMusem">Luxor Musem</string>
+
+    <string-array name="museums">
+        <item>@string/krnkMuseum</item>
+        <item>@string/LuxorMusem</item>
+    </string-array>
+
+    <string name="address_krnk">672 egyptian krnk</string>
+    <string name="address_luxor">670 luxor 13.</string>
+
+
+    <string-array name="museum_address">
+        <item>@string/address_krnk</item>
+        <item>@string/address_luxor</item>
+
+    </string-array>
+
+    <string name="phone_krnk">544360544361</string>
+    <string name="phone_luxor">01062544000</string>
+
+    <string-array name="faculty_phone">
+        <item>@string/phone_krnk</item>
+        <item>@string/phone_luxor</item>
+
+    </string-array>
+
+    <string name="email_krnk"> krnk@gmail.com</string>
+    <string name="email_luxor">luxor@gmail.com</string>
+
+
+    <string-array name="faculty_email">
+        <item>@string/email_krnk</item>
+        <item>@string/email_luxor</item>
+    </string-array>
+
+    <string name="aswan_shops">aswan shops</string>
+    <string name="luxor_shops">luxor shops</string>
+
+
+    <string-array name="Shops">
+        <item>@string/aswan_shops</item>
+        <item>@string/luxor_shops</item>
+    </string-array>
+
+    <string name="kentaki">kentaki restaurant</string>
+    <string name="macdonalds">macdonalds pizza</string>
+
+
+    <string-array name="FoodAndDrinks">
+        <item>@string/kentaki</item>
+        <item>@string/macdonalds</item>
+
+    </string-array>
+
+    <string name="toto">toto hotels</string>
+    <string name="lucko">lucko hotels</string>
+
+
+    <string-array name="Hotels">
+        <item>@string/toto</item>
+        <item>@string/lucko</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
